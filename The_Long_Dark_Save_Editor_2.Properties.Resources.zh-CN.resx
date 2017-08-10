@@ -220,7 +220,7 @@
     <value>修补技能点数</value>
   </data>
   <data name="CoastalRegion" xml:space="preserve">
-    <value>Coastal Highway</value>
+    <value>海岸公路</value>
   </data>
   <data name="ColdFusionProgress" xml:space="preserve">
     <value>冷聚变成就进度</value>
@@ -235,7 +235,7 @@
     <value>烹饪技能点数</value>
   </data>
   <data name="CrashMountainRegion" xml:space="preserve">
-    <value>Timberwolf Mountain</value>
+    <value>林狼雪玲</value>
   </data>
   <data name="CurrentCalories" xml:space="preserve">
     <value>饱食度 (卡路里)</value>
@@ -247,37 +247,37 @@
     <value>生存机器成就进度</value>
   </data>
   <data name="ExperienceMode" xml:space="preserve">
-    <value>Experience mode</value>
+    <value>游戏模式</value>
   </data>
   <data name="ExperienceModeType_ChallengeHunted" xml:space="preserve">
-    <value>The Hunted</value>
+    <value>猎物，第一部分</value>
   </data>
   <data name="ExperienceModeType_ChallengeHuntedPart2" xml:space="preserve">
-    <value>The Hunted, Part 2</value>
+    <value>猎物，第二部分</value>
   </data>
   <data name="ExperienceModeType_ChallengeNomad" xml:space="preserve">
-    <value>Nomad</value>
+    <value>流浪者</value>
   </data>
   <data name="ExperienceModeType_ChallengeRescue" xml:space="preserve">
-    <value>Hopeless Rescue</value>
+    <value>无望的救援</value>
   </data>
   <data name="ExperienceModeType_ChallengeWhiteout" xml:space="preserve">
-    <value>Whiteout</value>
+    <value>白雪茫茫</value>
   </data>
   <data name="ExperienceModeType_Interloper" xml:space="preserve">
-    <value>Interloper</value>
+    <value>入侵者</value>
   </data>
   <data name="ExperienceModeType_Pilgrim" xml:space="preserve">
-    <value>Pilgrim</value>
+    <value>朝圣者</value>
   </data>
   <data name="ExperienceModeType_Stalker" xml:space="preserve">
-    <value>Stalker</value>
+    <value>潜行者</value>
   </data>
   <data name="ExperienceModeType_Story" xml:space="preserve">
-    <value>Story</value>
+    <value>故事模式</value>
   </data>
   <data name="ExperienceModeType_Voyageur" xml:space="preserve">
-    <value>Voyageur</value>
+    <value>航行者</value>
   </data>
   <data name="Fatigue" xml:space="preserve">
     <value>疲劳度</value>
@@ -646,7 +646,7 @@
     <value>士力架 (能量棒)</value>
   </data>
   <data name="GEAR_FarmerDepositBoxKey" xml:space="preserve">
-    <value>Bank Deposit Box Key (#15)</value>
+    <value>银行保险箱钥匙 (#15)</value>
   </data>
   <data name="GEAR_FarmersAlmanac" xml:space="preserve">
     <value>年历</value>
@@ -910,13 +910,13 @@
     <value>军大衣</value>
   </data>
   <data name="GEAR_MiltonDepositBoxKey1" xml:space="preserve">
-    <value>Bank Deposit Box Key (#7)</value>
+    <value>银行保险箱钥匙 (#7)</value>
   </data>
   <data name="GEAR_MiltonDepositBoxKey2" xml:space="preserve">
-    <value>Bank Deposit Box Key (#13)</value>
+    <value>银行保险箱钥匙 (#13)</value>
   </data>
   <data name="GEAR_MiltonDepositBoxKey3" xml:space="preserve">
-    <value>Bank Deposit Box Key (#20)</value>
+    <value>银行保险箱钥匙 (#20)</value>
   </data>
   <data name="GEAR_Mittens" xml:space="preserve">
     <value>连指手套</value>
@@ -1036,7 +1036,7 @@
     <value>灵芝</value>
   </data>
   <data name="GEAR_ReishiPrepared" xml:space="preserve">
-    <value>Prepared Reishi Mushrooms</value>
+    <value>制好的灵芝</value>
   </data>
   <data name="GEAR_ReishiTea" xml:space="preserve">
     <value>灵芝茶</value>
@@ -1072,7 +1072,7 @@
     <value>玫瑰果</value>
   </data>
   <data name="GEAR_RosehipsPrepared" xml:space="preserve">
-    <value>Prepared Rosehips</value>
+    <value>制作好的玫瑰果</value>
   </data>
   <data name="GEAR_RoseHipTea" xml:space="preserve">
     <value>玫瑰果茶</value>
@@ -1147,10 +1147,10 @@
     <value>公共法案</value>
   </data>
   <data name="GEAR_Water1000ml" xml:space="preserve">
-    <value>Water Bottle</value>
+    <value>1000ml水瓶</value>
   </data>
   <data name="GEAR_Water500ml" xml:space="preserve">
-    <value>Water Bottle</value>
+    <value>500ml水瓶</value>
   </data>
   <data name="GEAR_WaterPurificationTablets" xml:space="preserve">
     <value>净水药片</value>
@@ -1282,13 +1282,13 @@
     <value>未知物品</value>
   </data>
   <data name="LakeRegion" xml:space="preserve">
-    <value>Mystery Lake</value>
+    <value>神秘湖</value>
   </data>
   <data name="Map" xml:space="preserve">
-    <value>Map</value>
+    <value>地图</value>
   </data>
   <data name="MarshRegion" xml:space="preserve">
-    <value>Forlorn Muskeg</value>
+    <value>绝望沼泽</value>
   </data>
   <data name="Materials" xml:space="preserve">
     <value>材料</value>
@@ -1306,7 +1306,7 @@
     <value>人物</value>
   </data>
   <data name="Position" xml:space="preserve">
-    <value>Position</value>
+    <value>坐标</value>
   </data>
   <data name="Profile" xml:space="preserve">
     <value>徽章</value>
@@ -1315,13 +1315,13 @@
     <value>进度</value>
   </data>
   <data name="RavineTransitionZone" xml:space="preserve">
-    <value>Ravine</value>
+    <value>山沟</value>
   </data>
   <data name="Refresh" xml:space="preserve">
     <value>刷新</value>
   </data>
   <data name="Region" xml:space="preserve">
-    <value>Region</value>
+    <value>地区</value>
   </data>
   <data name="Remove" xml:space="preserve">
     <value>删除选中物品</value>
@@ -1339,7 +1339,7 @@
     <value>Rounds in clip</value>
   </data>
   <data name="RuralRegion" xml:space="preserve">
-    <value>Pleasant Valley</value>
+    <value>惬意山谷</value>
   </data>
   <data name="Save" xml:space="preserve">
     <value>保存修改</value>
@@ -1375,6 +1375,6 @@
     <value>未知</value>
   </data>
   <data name="WhalingStationRegion" xml:space="preserve">
-    <value>Desolation Point</value>
+    <value>荒芜据点</value>
   </data>
 </root>
