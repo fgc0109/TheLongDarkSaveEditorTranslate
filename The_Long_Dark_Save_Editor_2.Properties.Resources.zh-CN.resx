@@ -211,7 +211,7 @@
     <value>取消</value>
   </data>
   <data name="CarcassHarvestingSP" xml:space="preserve">
-    <value>尸骸采集技能点数</value>
+    <value>采集技能点数</value>
   </data>
   <data name="Clothing" xml:space="preserve">
     <value>衣物</value>
@@ -355,7 +355,7 @@
     <value>羊毛围巾</value>
   </data>
   <data name="GEAR_BearEar" xml:space="preserve">
-    <value>The Old Bear's Ear</value>
+    <value>老熊的耳朵</value>
   </data>
   <data name="GEAR_BearHide" xml:space="preserve">
     <value>新鲜的熊皮</value>
@@ -427,19 +427,19 @@
     <value>《户外生存！》</value>
   </data>
   <data name="GEAR_BookFopen" xml:space="preserve">
-    <value>Book</value>
+    <value>打开的书</value>
   </data>
   <data name="GEAR_BookG" xml:space="preserve">
-    <value>Book</value>
+    <value>普通的书</value>
   </data>
   <data name="GEAR_BookH" xml:space="preserve">
-    <value>Book</value>
+    <value>普通的书</value>
   </data>
   <data name="GEAR_BookHopen" xml:space="preserve">
-    <value>Book</value>
+    <value>打开的书</value>
   </data>
   <data name="GEAR_BookI" xml:space="preserve">
-    <value>Book</value>
+    <value>普通的书</value>
   </data>
   <data name="GEAR_BookIceFishing" xml:space="preserve">
     <value>《冰冻垂钓》</value>
@@ -517,7 +517,7 @@
     <value>Cave Hidden Cache Note</value>
   </data>
   <data name="GEAR_Charcoal" xml:space="preserve">
-    <value>Charcoal</value>
+    <value>木炭</value>
   </data>
   <data name="GEAR_ChurchHymn" xml:space="preserve">
     <value>石头教堂</value>
@@ -556,7 +556,7 @@
     <value>军裤</value>
   </data>
   <data name="GEAR_CompressionBandage" xml:space="preserve">
-    <value>压力绷带</value>
+    <value>压迫绷带</value>
   </data>
   <data name="GEAR_CondensedMilk" xml:space="preserve">
     <value>炼乳</value>
@@ -646,7 +646,7 @@
     <value>士力架 (能量棒)</value>
   </data>
   <data name="GEAR_FarmerDepositBoxKey" xml:space="preserve">
-    <value>Bank Deposit Box Key (#15)</value>
+    <value>银行保管箱钥匙 (#15)</value>
   </data>
   <data name="GEAR_FarmersAlmanac" xml:space="preserve">
     <value>年历</value>
@@ -910,13 +910,13 @@
     <value>军大衣</value>
   </data>
   <data name="GEAR_MiltonDepositBoxKey1" xml:space="preserve">
-    <value>Bank Deposit Box Key (#7)</value>
+    <value>银行保管箱钥匙 (#7)</value>
   </data>
   <data name="GEAR_MiltonDepositBoxKey2" xml:space="preserve">
-    <value>Bank Deposit Box Key (#13)</value>
+    <value>银行保管箱钥匙 (#13)</value>
   </data>
   <data name="GEAR_MiltonDepositBoxKey3" xml:space="preserve">
-    <value>Bank Deposit Box Key (#20)</value>
+    <value>银行保管箱钥匙 (#20)</value>
   </data>
   <data name="GEAR_Mittens" xml:space="preserve">
     <value>连指手套</value>
@@ -925,19 +925,19 @@
     <value>吗啡</value>
   </data>
   <data name="GEAR_MountainTownFarmKey" xml:space="preserve">
-    <value>怡人山谷农场关键词</value>
+    <value>怡人山谷农场钥匙</value>
   </data>
   <data name="GEAR_MountainTownFarmNote" xml:space="preserve">
     <value>怡人山谷农场信息</value>
   </data>
   <data name="GEAR_MountainTownLockBoxKey" xml:space="preserve">
-    <value>怡人山谷上锁箱子关键词</value>
+    <value>怡人山谷上锁箱子钥匙</value>
   </data>
   <data name="GEAR_MountainTownMap" xml:space="preserve">
     <value>怡人山谷地图</value>
   </data>
   <data name="GEAR_MountainTownStoreKey" xml:space="preserve">
-    <value>怡人山谷商店关键词</value>
+    <value>怡人山谷商店钥匙</value>
   </data>
   <data name="GEAR_MRE" xml:space="preserve">
     <value>军用速食口粮</value>
@@ -1036,7 +1036,7 @@
     <value>灵芝</value>
   </data>
   <data name="GEAR_ReishiPrepared" xml:space="preserve">
-    <value>Prepared Reishi Mushrooms</value>
+    <value>制备好的灵芝</value>
   </data>
   <data name="GEAR_ReishiTea" xml:space="preserve">
     <value>灵芝茶</value>
@@ -1072,7 +1072,7 @@
     <value>玫瑰果</value>
   </data>
   <data name="GEAR_RosehipsPrepared" xml:space="preserve">
-    <value>Prepared Rosehips</value>
+    <value>制备好的玫瑰果</value>
   </data>
   <data name="GEAR_RoseHipTea" xml:space="preserve">
     <value>玫瑰果茶</value>
@@ -1285,7 +1285,7 @@
     <value>Mystery Lake</value>
   </data>
   <data name="Map" xml:space="preserve">
-    <value>Map</value>
+    <value>地图</value>
   </data>
   <data name="MarshRegion" xml:space="preserve">
     <value>Forlorn Muskeg</value>
@@ -1306,7 +1306,7 @@
     <value>人物</value>
   </data>
   <data name="Position" xml:space="preserve">
-    <value>Position</value>
+    <value>位置</value>
   </data>
   <data name="Profile" xml:space="preserve">
     <value>徽章</value>
@@ -1345,13 +1345,10 @@
     <value>保存修改</value>
   </data>
   <data name="Skills" xml:space="preserve">
-    <value>技能点</value>
+    <value>技能</value>
   </data>
   <data name="SnowWalkerProgress" xml:space="preserve">
     <value>雪中漫步者成就进度</value>
-  </data>
-  <data name="String1" xml:space="preserve">
-    <value>0</value>
   </data>
   <data name="TestBranch" xml:space="preserve">
     <value>测试开关</value>
@@ -1363,7 +1360,7 @@
     <value>已加工时间 (小时)</value>
   </data>
   <data name="Title" xml:space="preserve">
-    <value>The Long Dark 漫漫长夜 (v.1.05) 存档编辑器中文版 汉化：Chasel</value>
+    <value>The Long Dark 漫漫长夜 (v.1.05) 存档编辑器中文版 汉化：Chasel  版本</value>
   </data>
   <data name="Tools" xml:space="preserve">
     <value>工具</value>
