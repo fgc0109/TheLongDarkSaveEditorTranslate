@@ -229,7 +229,7 @@
     <value>可收藏的物品</value>
   </data>
   <data name="Condition" xml:space="preserve">
-    <value>耐久度</value>
+    <value>耐久</value>
   </data>
   <data name="CookingSP" xml:space="preserve">
     <value>烹饪技能点数</value>
@@ -331,7 +331,7 @@
     <value>Bank Vault Code</value>
   </data>
   <data name="GEAR_BarkTinder" xml:space="preserve">
-    <value>Birch Bark</value>
+    <value>桦树皮</value>
   </data>
   <data name="GEAR_BaseballCap" xml:space="preserve">
     <value>棒球帽</value>
@@ -361,10 +361,10 @@
     <value>新鲜的熊皮</value>
   </data>
   <data name="GEAR_BearHideDried" xml:space="preserve">
-    <value>已风干的熊皮</value>
+    <value>鞣制的熊皮</value>
   </data>
   <data name="GEAR_BearQuarter" xml:space="preserve">
-    <value>Bear Quarter</value>
+    <value>小块熊尸</value>
   </data>
   <data name="GEAR_BearSkinBedRoll" xml:space="preserve">
     <value>熊皮睡袋</value>
@@ -400,7 +400,7 @@
     <value>普通的书</value>
   </data>
   <data name="GEAR_BookBopen" xml:space="preserve">
-    <value>Book</value>
+    <value>打开的书</value>
   </data>
   <data name="GEAR_BookC" xml:space="preserve">
     <value>普通的书</value>
@@ -418,7 +418,7 @@
     <value>普通的书</value>
   </data>
   <data name="GEAR_BookEopen" xml:space="preserve">
-    <value>Book</value>
+    <value>打开的书</value>
   </data>
   <data name="GEAR_BookF" xml:space="preserve">
     <value>普通的书</value>
@@ -478,7 +478,7 @@
     <value>小火棍</value>
   </data>
   <data name="GEAR_BrokenArrow" xml:space="preserve">
-    <value>Broken Arrow</value>
+    <value>断箭</value>
   </data>
   <data name="GEAR_BrokenRifle" xml:space="preserve">
     <value>Jeremiah's Broken Rifle</value>
@@ -562,7 +562,7 @@
     <value>炼乳</value>
   </data>
   <data name="GEAR_CookedCohoSalmon" xml:space="preserve">
-    <value>Coho Salmon (Cooked)</value>
+    <value>银大马哈鱼(已烤熟)</value>
   </data>
   <data name="GEAR_CookedLakeWhiteFish" xml:space="preserve">
     <value>白鲑 (已烤熟)</value>
@@ -655,7 +655,7 @@
     <value>消防斧</value>
   </data>
   <data name="GEAR_Firelog" xml:space="preserve">
-    <value>圆木 (可加工木材)</value>
+    <value>加工木材</value>
   </data>
   <data name="GEAR_Firestriker" xml:space="preserve">
     <value>打火机</value>
@@ -682,7 +682,7 @@
     <value>照明弹 (信号弹)</value>
   </data>
   <data name="GEAR_Flashlight" xml:space="preserve">
-    <value>Flashlight</value>
+    <value>手电</value>
   </data>
   <data name="GEAR_FleeceMittens" xml:space="preserve">
     <value>羊毛手套</value>
@@ -724,7 +724,7 @@
     <value>一罐花茶</value>
   </data>
   <data name="GEAR_GreyMotherBoots" xml:space="preserve">
-    <value>Mountaineering Boots</value>
+    <value>登山靴</value>
   </data>
   <data name="GEAR_GreyMotherPearls" xml:space="preserve">
     <value>Grey Mother's Pearls</value>
@@ -820,7 +820,7 @@
     <value>牛仔裤</value>
   </data>
   <data name="GEAR_JeremiahKnife" xml:space="preserve">
-    <value>Jeremiah's Knife</value>
+    <value>耶利米的小刀</value>
   </data>
   <data name="GEAR_JeremiahsCoat" xml:space="preserve">
     <value>Jeremiah's Bearskin Coat</value>
@@ -862,7 +862,7 @@
     <value>新鲜的鹿皮</value>
   </data>
   <data name="GEAR_LeatherHideDried" xml:space="preserve">
-    <value>已风干的鹿皮</value>
+    <value>鞣制的鹿皮</value>
   </data>
   <data name="GEAR_LeatherShoes" xml:space="preserve">
     <value>皮鞋</value>
@@ -994,13 +994,13 @@
     <value>陆战队短羊毛大衣</value>
   </data>
   <data name="GEAR_RabbitCarcass" xml:space="preserve">
-    <value>Rabbit Carcass</value>
+    <value>兔子尸骸</value>
   </data>
   <data name="GEAR_RabbitPelt" xml:space="preserve">
     <value>新鲜的兔皮</value>
   </data>
   <data name="GEAR_RabbitPeltDried" xml:space="preserve">
-    <value>已风干的兔皮</value>
+    <value>鞣制的兔皮</value>
   </data>
   <data name="GEAR_RabbitSkinMittens" xml:space="preserve">
     <value>兔皮手套</value>
@@ -1063,7 +1063,7 @@
     <value>猎枪清理套件</value>
   </data>
   <data name="GEAR_RifleHuntingLodge" xml:space="preserve">
-    <value>Hunting Rifle</value>
+    <value>猎枪</value>
   </data>
   <data name="GEAR_Rope" xml:space="preserve">
     <value>攀岩绳</value>
@@ -1117,13 +1117,13 @@
     <value>杉木</value>
   </data>
   <data name="GEAR_StagQuarter" xml:space="preserve">
-    <value>Deer Quarter</value>
+    <value>小块鹿尸</value>
   </data>
   <data name="GEAR_Stick" xml:space="preserve">
     <value>小树枝</value>
   </data>
   <data name="GEAR_Stone" xml:space="preserve">
-    <value>Stone</value>
+    <value>石块</value>
   </data>
   <data name="GEAR_TeeShirt" xml:space="preserve">
     <value>T恤</value>
@@ -1189,10 +1189,10 @@
     <value>新鲜的狼皮</value>
   </data>
   <data name="GEAR_WolfPeltDried" xml:space="preserve">
-    <value>已风干的狼皮</value>
+    <value>鞣制的狼皮</value>
   </data>
   <data name="GEAR_WolfQuarter" xml:space="preserve">
-    <value>Wolf Quarter</value>
+    <value>小块狼尸</value>
   </data>
   <data name="GEAR_WolfSkinCape" xml:space="preserve">
     <value>狼皮大衣</value>
@@ -1282,7 +1282,7 @@
     <value>未知物品</value>
   </data>
   <data name="LakeRegion" xml:space="preserve">
-    <value>Mystery Lake</value>
+    <value>神秘湖</value>
   </data>
   <data name="Map" xml:space="preserve">
     <value>地图</value>
@@ -1321,7 +1321,7 @@
     <value>刷新</value>
   </data>
   <data name="Region" xml:space="preserve">
-    <value>Region</value>
+    <value>区域</value>
   </data>
   <data name="Remove" xml:space="preserve">
     <value>删除选中物品</value>
