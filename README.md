@@ -1,17 +1,22 @@
 # TheLongDarkSaveEditorTranslate
 漫漫长夜存档编辑器汉化工程
 
-存档编辑器(2.8)下载地址
+存档编辑器(2.8)下载地址 对应游戏版本1.05
 
 http://www.moddb.com/mods/the-long-dark-save-editor-2/downloads/tld-save-editor-28-v105
 
 http://pan.baidu.com/s/1i5JzcyT
 
-版权归原作者所有
+存档编辑器(2.9)下载地址 对应游戏版本1.17
+
+http://www.moddb.com/mods/the-long-dark-save-editor-2/downloads/tld-save-editor-29-v1171
+
+©版权归原作者所有
 
 
 汉化过程提取了3DM汉化的2.6版本存档编辑器的部分文本,在此表示感谢.部分文本未翻译,正在对照游戏官方中文进行补充.
 欢迎提供翻译内容和建议.
+
 
 
 
