@@ -379,10 +379,10 @@
     <value>牛肉干</value>
   </data>
   <data name="GEAR_BirchSapling" xml:space="preserve">
-    <value>绿色桦木苗</value>
+    <value>绿色桦树苗</value>
   </data>
   <data name="GEAR_BirchSaplingDried" xml:space="preserve">
-    <value>风干的桦木苗</value>
+    <value>风干的桦树苗</value>
   </data>
   <data name="GEAR_BloodyHammer" xml:space="preserve">
     <value>嗜血锤</value>
@@ -502,13 +502,13 @@
     <value>汽车电瓶</value>
   </data>
   <data name="GEAR_CargoPants" xml:space="preserve">
-    <value>工作裤</value>
+    <value>工装裤</value>
   </data>
   <data name="GEAR_CattailPlant" xml:space="preserve">
     <value>香蒲</value>
   </data>
   <data name="GEAR_CattailStalk" xml:space="preserve">
-    <value>香蒲茎</value>
+    <value>香蒲茎干</value>
   </data>
   <data name="GEAR_CattailTinder" xml:space="preserve">
     <value>香蒲头部</value>
@@ -829,7 +829,7 @@
     <value>油桶</value>
   </data>
   <data name="GEAR_KeroseneLampB" xml:space="preserve">
-    <value>煤油灯</value>
+    <value>防风油灯</value>
   </data>
   <data name="GEAR_Knife" xml:space="preserve">
     <value>捕猎者小刀</value>
@@ -982,7 +982,7 @@
     <value>格子尼衬衫</value>
   </data>
   <data name="GEAR_PremiumWinterCoat" xml:space="preserve">
-    <value>优质冬大衣</value>
+    <value>远征风雪大衣</value>
   </data>
   <data name="GEAR_Prybar" xml:space="preserve">
     <value>撬棍</value>
