@@ -1,9 +1,9 @@
 using System;
 using System.Reflection;
 
-[assembly: AssemblyVersion("1.0.0.0")]
+[assembly: AssemblyVersion("1.0.2.0")]
 [assembly: AssemblyCompany(null)]
-[assembly: AssemblyCopyright("Copyright ©  2016")]
+[assembly: AssemblyCopyright("Copyright ©  2018")]
 [assembly: AssemblyDescription(null)]
 [assembly: AssemblyFileVersion("1.0.0.0")]
 [assembly: AssemblyProduct("The Long Dark Save Editor 2")]
