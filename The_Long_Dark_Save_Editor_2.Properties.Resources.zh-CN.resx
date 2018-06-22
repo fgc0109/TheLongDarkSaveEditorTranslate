@@ -220,7 +220,7 @@
     <value>修补技能点数</value>
   </data>
   <data name="CoastalRegion" xml:space="preserve">
-    <value>Coastal Highway</value>
+    <value>沿海公路</value>
   </data>
   <data name="ColdFusionProgress" xml:space="preserve">
     <value>冷聚变成就进度</value>
@@ -235,7 +235,7 @@
     <value>烹饪技能点数</value>
   </data>
   <data name="CrashMountainRegion" xml:space="preserve">
-    <value>Timberwolf Mountain</value>
+    <value>林狼雪岭</value>
   </data>
   <data name="CurrentCalories" xml:space="preserve">
     <value>饱食度 (卡路里)</value>
@@ -247,37 +247,37 @@
     <value>生存机器成就进度</value>
   </data>
   <data name="ExperienceMode" xml:space="preserve">
-    <value>Experience mode</value>
+    <value>挑战模式</value>
   </data>
   <data name="ExperienceModeType_ChallengeHunted" xml:space="preserve">
-    <value>The Hunted</value>
+    <value>猎物 第一部分</value>
   </data>
   <data name="ExperienceModeType_ChallengeHuntedPart2" xml:space="preserve">
-    <value>The Hunted, Part 2</value>
+    <value>猎物 第二部分</value>
   </data>
   <data name="ExperienceModeType_ChallengeNomad" xml:space="preserve">
-    <value>Nomad</value>
+    <value>流浪者</value>
   </data>
   <data name="ExperienceModeType_ChallengeRescue" xml:space="preserve">
-    <value>Hopeless Rescue</value>
+    <value>无望的救援</value>
   </data>
   <data name="ExperienceModeType_ChallengeWhiteout" xml:space="preserve">
-    <value>Whiteout</value>
+    <value>白雪茫茫</value>
   </data>
   <data name="ExperienceModeType_Interloper" xml:space="preserve">
-    <value>Interloper</value>
+    <value>入侵者</value>
   </data>
   <data name="ExperienceModeType_Pilgrim" xml:space="preserve">
-    <value>Pilgrim</value>
+    <value>朝圣者</value>
   </data>
   <data name="ExperienceModeType_Stalker" xml:space="preserve">
-    <value>Stalker</value>
+    <value>潜行者</value>
   </data>
   <data name="ExperienceModeType_Story" xml:space="preserve">
-    <value>Story</value>
+    <value>故事</value>
   </data>
   <data name="ExperienceModeType_Voyageur" xml:space="preserve">
-    <value>Voyageur</value>
+    <value>航行者</value>
   </data>
   <data name="Fatigue" xml:space="preserve">
     <value>疲劳度</value>
@@ -325,10 +325,10 @@
     <value>巴拉克拉法帽</value>
   </data>
   <data name="GEAR_BankManagerHouseKey" xml:space="preserve">
-    <value>Bank Manager's House Key</value>
+    <value>银行经理房屋钥匙</value>
   </data>
   <data name="GEAR_BankVaultCode" xml:space="preserve">
-    <value>Bank Vault Code</value>
+    <value>银行金库密码</value>
   </data>
   <data name="GEAR_BarkTinder" xml:space="preserve">
     <value>桦树皮</value>
@@ -379,10 +379,10 @@
     <value>牛肉干</value>
   </data>
   <data name="GEAR_BirchSapling" xml:space="preserve">
-    <value>桦木树苗</value>
+    <value>绿色桦树苗</value>
   </data>
   <data name="GEAR_BirchSaplingDried" xml:space="preserve">
-    <value>已风干的桦木树苗</value>
+    <value>风干的桦树苗</value>
   </data>
   <data name="GEAR_BloodyHammer" xml:space="preserve">
     <value>嗜血锤</value>
@@ -394,7 +394,7 @@
     <value>普通的书</value>
   </data>
   <data name="GEAR_BookArchery" xml:space="preserve">
-    <value>Stay On Target</value>
+    <value>《紧盯目标》</value>
   </data>
   <data name="GEAR_BookB" xml:space="preserve">
     <value>普通的书</value>
@@ -442,19 +442,19 @@
     <value>普通的书</value>
   </data>
   <data name="GEAR_BookIceFishing" xml:space="preserve">
-    <value>《冰冻垂钓》</value>
+    <value>《冰上钓鱼人》</value>
   </data>
   <data name="GEAR_BookManual" xml:space="preserve">
     <value>普通的书</value>
   </data>
   <data name="GEAR_BookMending" xml:space="preserve">
-    <value>A Sewing Primer</value>
+    <value>《初级缝纫指南》</value>
   </data>
   <data name="GEAR_BookRifleFirearm" xml:space="preserve">
     <value>《前沿射击指南》</value>
   </data>
   <data name="GEAR_BookRifleFirearmAdvanced" xml:space="preserve">
-    <value>《进击 射 射 射！》</value>
+    <value>《統·枪·炮—高级射击》</value>
   </data>
   <data name="GEAR_BottleAntibiotics" xml:space="preserve">
     <value>抗生素</value>
@@ -481,10 +481,10 @@
     <value>断箭</value>
   </data>
   <data name="GEAR_BrokenRifle" xml:space="preserve">
-    <value>Jeremiah's Broken Rifle</value>
+    <value>耶利米的损坏步枪</value>
   </data>
   <data name="GEAR_CacheNote_ChurchMarshDir" xml:space="preserve">
-    <value>Milton Hidden Cache Note</value>
+    <value>米尔顿隐藏补给处</value>
   </data>
   <data name="GEAR_CandyBar" xml:space="preserve">
     <value>糖果条</value>
@@ -502,19 +502,19 @@
     <value>汽车电瓶</value>
   </data>
   <data name="GEAR_CargoPants" xml:space="preserve">
-    <value>工作裤</value>
+    <value>工装裤</value>
   </data>
   <data name="GEAR_CattailPlant" xml:space="preserve">
-    <value>Cat Tail Plant</value>
+    <value>香蒲</value>
   </data>
   <data name="GEAR_CattailStalk" xml:space="preserve">
-    <value>香蒲茎</value>
+    <value>香蒲茎干</value>
   </data>
   <data name="GEAR_CattailTinder" xml:space="preserve">
     <value>香蒲头部</value>
   </data>
   <data name="GEAR_CaveCacheNote" xml:space="preserve">
-    <value>Cave Hidden Cache Note</value>
+    <value>洞穴隐藏补给处</value>
   </data>
   <data name="GEAR_Charcoal" xml:space="preserve">
     <value>木炭</value>
@@ -598,7 +598,7 @@
     <value>运动袜</value>
   </data>
   <data name="GEAR_CowichanSweater" xml:space="preserve">
-    <value>科维昌式厚毛衣</value>
+    <value>印第安式厚毛衣</value>
   </data>
   <data name="GEAR_Crackers" xml:space="preserve">
     <value>咸饼干</value>
@@ -625,7 +625,7 @@
     <value>狗粮</value>
   </data>
   <data name="GEAR_DownParka" xml:space="preserve">
-    <value>现代派克大衣</value>
+    <value>城市风雪大衣</value>
   </data>
   <data name="GEAR_DownSkiJacket" xml:space="preserve">
     <value>羽绒滑雪衫</value>
@@ -640,7 +640,7 @@
     <value>信号枪箱信息</value>
   </data>
   <data name="GEAR_EmergencyStim" xml:space="preserve">
-    <value>紧急强心针</value>
+    <value>强心针</value>
   </data>
   <data name="GEAR_EnergyBar" xml:space="preserve">
     <value>士力架 (能量棒)</value>
@@ -670,7 +670,7 @@
     <value>鱼线</value>
   </data>
   <data name="GEAR_FixedRifle" xml:space="preserve">
-    <value>Jeremiah's Repaired Rifle</value>
+    <value>耶利米的步枪</value>
   </data>
   <data name="GEAR_FlareA" xml:space="preserve">
     <value>信号棒</value>
@@ -694,28 +694,28 @@
     <value>燧石 (打火石)</value>
   </data>
   <data name="GEAR_ForestTalkerFlyer" xml:space="preserve">
-    <value>Forest Talker Flyer</value>
+    <value>森林代言人的传单</value>
   </data>
   <data name="GEAR_ForestTalkerHiddenItem" xml:space="preserve">
-    <value>Forest Talker Documents</value>
+    <value>森林代言人的文件</value>
   </data>
   <data name="GEAR_ForestTalkerMap" xml:space="preserve">
-    <value>Forest Talker Map Note</value>
+    <value>森林代言人地图提示</value>
   </data>
   <data name="GEAR_ForestTalkerThankyou" xml:space="preserve">
-    <value>Forest Talker Note</value>
+    <value>森林代言人便条</value>
   </data>
   <data name="GEAR_ForestTalkerThankyou2" xml:space="preserve">
-    <value>Forest Talker Note</value>
+    <value>森林代言人便条</value>
   </data>
   <data name="GEAR_ForgeBlueprints" xml:space="preserve">
-    <value>Forge Blueprints</value>
+    <value>锻造蓝图</value>
   </data>
   <data name="GEAR_Gauntlets" xml:space="preserve">
     <value>长手套</value>
   </data>
   <data name="GEAR_GranolaBar" xml:space="preserve">
-    <value>格兰诺拉麦片</value>
+    <value>格兰诺拉燕麦卷</value>
   </data>
   <data name="GEAR_GreenTeaCup" xml:space="preserve">
     <value>一杯花茶</value>
@@ -727,10 +727,10 @@
     <value>登山靴</value>
   </data>
   <data name="GEAR_GreyMotherPearls" xml:space="preserve">
-    <value>Grey Mother's Pearls</value>
+    <value>灰色母亲的珠宝</value>
   </data>
   <data name="GEAR_GreyMotherTrunkKey" xml:space="preserve">
-    <value>Lily's Trunk Key</value>
+    <value>莉莉的储物箱钥匙</value>
   </data>
   <data name="GEAR_Gut" xml:space="preserve">
     <value>新鲜的内脏</value>
@@ -745,13 +745,13 @@
     <value>重锤</value>
   </data>
   <data name="GEAR_HankHatchCode" xml:space="preserve">
-    <value>Hank's Prepper Cache Code</value>
+    <value>汉克的应急舱</value>
   </data>
   <data name="GEAR_HankJournal2" xml:space="preserve">
-    <value>Hank's Journal - Part Two</value>
+    <value>汉克的日记 第二部分</value>
   </data>
   <data name="GEAR_HankNeiceLetter" xml:space="preserve">
-    <value>Letter for Hank's Neice</value>
+    <value>给汉克侄女的信</value>
   </data>
   <data name="GEAR_HardCase" xml:space="preserve">
     <value>硬木</value>
@@ -766,28 +766,28 @@
     <value>简易短斧</value>
   </data>
   <data name="GEAR_HC_EP1_FM_TreeRoots_Dir" xml:space="preserve">
-    <value>Charcoal Note</value>
+    <value>炭笔便条</value>
   </data>
   <data name="GEAR_HC_EP1_ML_AlansCave_Dir" xml:space="preserve">
-    <value>Crumpled Note</value>
+    <value>褶皱的便条</value>
   </data>
   <data name="GEAR_HC_EP1_ML_ClearCut_Dir" xml:space="preserve">
-    <value>Simple Note</value>
+    <value>简单的便条</value>
   </data>
   <data name="GEAR_HC_EP1_ML_TracksEnt_Dir" xml:space="preserve">
-    <value>Illegible Note</value>
+    <value>字迹模糊的便条</value>
   </data>
   <data name="GEAR_HC_EP1_RW_HunterLodge_Dir" xml:space="preserve">
-    <value>Handwritten Note</value>
+    <value>手写便条</value>
   </data>
   <data name="GEAR_HC_EP1_RW_RavineEnd_Dir" xml:space="preserve">
-    <value>Blood Soaked Note</value>
+    <value>沾染鲜血的便条</value>
   </data>
   <data name="GEAR_HeavyBandage" xml:space="preserve">
     <value>绷带</value>
   </data>
   <data name="GEAR_HeavyParka" xml:space="preserve">
-    <value>古典派克大衣</value>
+    <value>老式风雪大衣</value>
   </data>
   <data name="GEAR_HeavyWoolSweater" xml:space="preserve">
     <value>厚羊毛衫</value>
@@ -823,13 +823,13 @@
     <value>耶利米的小刀</value>
   </data>
   <data name="GEAR_JeremiahsCoat" xml:space="preserve">
-    <value>Jeremiah's Bearskin Coat</value>
+    <value>耶利米的熊皮大衣</value>
   </data>
   <data name="GEAR_JerrycanRusty" xml:space="preserve">
     <value>油桶</value>
   </data>
   <data name="GEAR_KeroseneLampB" xml:space="preserve">
-    <value>煤油灯</value>
+    <value>防风油灯</value>
   </data>
   <data name="GEAR_Knife" xml:space="preserve">
     <value>捕猎者小刀</value>
@@ -844,13 +844,13 @@
     <value>干净的小刀废金属</value>
   </data>
   <data name="GEAR_LakeTrailerKey1" xml:space="preserve">
-    <value>Logging Camp Trailer Key</value>
+    <value>伐木营地活动房钥匙</value>
   </data>
   <data name="GEAR_LampFuel" xml:space="preserve">
     <value>灯油</value>
   </data>
   <data name="GEAR_LampFuelFull" xml:space="preserve">
-    <value>Lantern Fuel</value>
+    <value>灯油</value>
   </data>
   <data name="GEAR_Leather" xml:space="preserve">
     <value>皮革</value>
@@ -871,7 +871,7 @@
     <value>新鲜的皮革</value>
   </data>
   <data name="GEAR_LetterBundle" xml:space="preserve">
-    <value>Jeremiah's Letters</value>
+    <value>耶利米的信件</value>
   </data>
   <data name="GEAR_LightParka" xml:space="preserve">
     <value>薄派克大衣</value>
@@ -886,16 +886,16 @@
     <value>羊毛裤</value>
   </data>
   <data name="GEAR_MackinawJacket" xml:space="preserve">
-    <value>短大衣外套</value>
+    <value>麦基诺呢厚夹克</value>
   </data>
   <data name="GEAR_MagnifyingLens" xml:space="preserve">
     <value>放大镜</value>
   </data>
   <data name="GEAR_MapleSapling" xml:space="preserve">
-    <value>青枫树苗</value>
+    <value>绿色枫树苗</value>
   </data>
   <data name="GEAR_MapleSaplingDried" xml:space="preserve">
-    <value>已风干的青枫树苗</value>
+    <value>已风干的枫树苗</value>
   </data>
   <data name="GEAR_MapSnippetMt" xml:space="preserve">
     <value>地图片段 Mt</value>
@@ -919,25 +919,25 @@
     <value>银行保管箱钥匙 (#20)</value>
   </data>
   <data name="GEAR_Mittens" xml:space="preserve">
-    <value>连指手套</value>
+    <value>羊毛连指手套</value>
   </data>
   <data name="GEAR_Morphine" xml:space="preserve">
     <value>吗啡</value>
   </data>
   <data name="GEAR_MountainTownFarmKey" xml:space="preserve">
-    <value>怡人山谷农场钥匙</value>
+    <value>“天堂草地”农场钥匙</value>
   </data>
   <data name="GEAR_MountainTownFarmNote" xml:space="preserve">
-    <value>怡人山谷农场信息</value>
+    <value>山间小镇农场信息</value>
   </data>
   <data name="GEAR_MountainTownLockBoxKey" xml:space="preserve">
-    <value>怡人山谷上锁箱子钥匙</value>
+    <value>山间小镇上锁箱子钥匙</value>
   </data>
   <data name="GEAR_MountainTownMap" xml:space="preserve">
-    <value>怡人山谷地图</value>
+    <value>山间小镇地图</value>
   </data>
   <data name="GEAR_MountainTownStoreKey" xml:space="preserve">
-    <value>怡人山谷商店钥匙</value>
+    <value>山间小镇商店钥匙</value>
   </data>
   <data name="GEAR_MRE" xml:space="preserve">
     <value>军用速食口粮</value>
@@ -952,7 +952,7 @@
     <value>一卷报纸</value>
   </data>
   <data name="GEAR_OldLadyStolenItem" xml:space="preserve">
-    <value>Grey Mother's Safety Deposit Box</value>
+    <value>灰色母亲的保险箱</value>
   </data>
   <data name="GEAR_OldMansBeardDressing" xml:space="preserve">
     <value>老君须 (胡须地衣)</value>
@@ -976,13 +976,13 @@
     <value>极品桃子</value>
   </data>
   <data name="GEAR_Placeholder" xml:space="preserve">
-    <value>Rabbit Carcass</value>
+    <value>兔子尸体</value>
   </data>
   <data name="GEAR_PlaidShirt" xml:space="preserve">
     <value>格子尼衬衫</value>
   </data>
   <data name="GEAR_PremiumWinterCoat" xml:space="preserve">
-    <value>优质冬大衣</value>
+    <value>远征风雪大衣</value>
   </data>
   <data name="GEAR_Prybar" xml:space="preserve">
     <value>撬棍</value>
@@ -1108,7 +1108,7 @@
     <value>尖峰饮料 (苏打汽水)</value>
   </data>
   <data name="GEAR_SodaGrape" xml:space="preserve">
-    <value>史黛西牌汽水</value>
+    <value>史黛西牌葡萄汽水</value>
   </data>
   <data name="GEAR_SodaOrange" xml:space="preserve">
     <value>橘子汽水</value>
@@ -1129,7 +1129,7 @@
     <value>T恤</value>
   </data>
   <data name="GEAR_Tinder" xml:space="preserve">
-    <value>火引子</value>
+    <value>火引</value>
   </data>
   <data name="GEAR_TomatoSoupCan" xml:space="preserve">
     <value>番茄汤</value>
@@ -1141,16 +1141,16 @@
     <value>火把</value>
   </data>
   <data name="GEAR_TrailerSupplies" xml:space="preserve">
-    <value>Forest Talker Supplies</value>
+    <value>森林代言人补给品</value>
   </data>
   <data name="GEAR_UtilitiesBill" xml:space="preserve">
     <value>公共法案</value>
   </data>
   <data name="GEAR_Water1000ml" xml:space="preserve">
-    <value>Water Bottle</value>
+    <value>水瓶</value>
   </data>
   <data name="GEAR_Water500ml" xml:space="preserve">
-    <value>Water Bottle</value>
+    <value>水瓶</value>
   </data>
   <data name="GEAR_WaterPurificationTablets" xml:space="preserve">
     <value>净水药片</value>
@@ -1165,25 +1165,25 @@
     <value>水塔信息</value>
   </data>
   <data name="GEAR_WillBoots" xml:space="preserve">
-    <value>Will's Boots</value>
+    <value>威尔的靴子</value>
   </data>
   <data name="GEAR_WillPants" xml:space="preserve">
-    <value>Will's Pants</value>
+    <value>威尔的裤子</value>
   </data>
   <data name="GEAR_WillParka" xml:space="preserve">
-    <value>Will's Coat</value>
+    <value>威尔的大衣</value>
   </data>
   <data name="GEAR_WillShirt" xml:space="preserve">
-    <value>Will's Shirt</value>
+    <value>威尔的上衣</value>
   </data>
   <data name="GEAR_WillSweater" xml:space="preserve">
-    <value>Will's Sweater</value>
+    <value>威尔的毛衣</value>
   </data>
   <data name="GEAR_WillToque" xml:space="preserve">
-    <value>Will's Hat</value>
+    <value>威尔的帽子</value>
   </data>
   <data name="GEAR_WolfCarcass" xml:space="preserve">
-    <value>Wolf Carcass</value>
+    <value>狼的尸体</value>
   </data>
   <data name="GEAR_WolfPelt" xml:space="preserve">
     <value>新鲜的狼皮</value>
@@ -1225,7 +1225,7 @@
     <value>工作裤</value>
   </data>
   <data name="GutAmount" xml:space="preserve">
-    <value>Guts</value>
+    <value>内脏</value>
   </data>
   <data name="Health" xml:space="preserve">
     <value>健康值</value>
@@ -1234,10 +1234,10 @@
     <value>隐藏</value>
   </data>
   <data name="HideAmount" xml:space="preserve">
-    <value>Hides</value>
+    <value>隐藏量</value>
   </data>
   <data name="HighwayTransitionZone" xml:space="preserve">
-    <value>Crumbling Highway</value>
+    <value>损毁的高速公路</value>
   </data>
   <data name="IceFishingSP" xml:space="preserve">
     <value>冰钓技能点数</value>
@@ -1288,19 +1288,19 @@
     <value>地图</value>
   </data>
   <data name="MarshRegion" xml:space="preserve">
-    <value>Forlorn Muskeg</value>
+    <value>孤寂沼泽</value>
   </data>
   <data name="Materials" xml:space="preserve">
     <value>材料</value>
   </data>
   <data name="MeatAmount" xml:space="preserve">
-    <value>Meat (kg)</value>
+    <value>肉（千克）</value>
   </data>
   <data name="NeverDie" xml:space="preserve">
     <value>永不死亡</value>
   </data>
   <data name="OpenMapCommand" xml:space="preserve">
-    <value>Open map</value>
+    <value>开放地图</value>
   </data>
   <data name="Player" xml:space="preserve">
     <value>人物</value>
@@ -1315,7 +1315,7 @@
     <value>进度</value>
   </data>
   <data name="RavineTransitionZone" xml:space="preserve">
-    <value>Ravine</value>
+    <value>深谷</value>
   </data>
   <data name="Refresh" xml:space="preserve">
     <value>刷新</value>
@@ -1339,7 +1339,7 @@
     <value>Rounds in clip</value>
   </data>
   <data name="RuralRegion" xml:space="preserve">
-    <value>Pleasant Valley</value>
+    <value>怡人山谷</value>
   </data>
   <data name="Save" xml:space="preserve">
     <value>保存修改</value>
@@ -1360,7 +1360,7 @@
     <value>已加工时间 (小时)</value>
   </data>
   <data name="Title" xml:space="preserve">
-    <value>The Long Dark 漫漫长夜 (v.1.17) 存档编辑器中文版 汉化：Chasel  版本</value>
+    <value>The Long Dark 漫漫长夜 (v.1.17) 存档编辑器中文版 汉化：Chasel 怼狼怼熊 版本</value>
   </data>
   <data name="Tools" xml:space="preserve">
     <value>工具</value>
