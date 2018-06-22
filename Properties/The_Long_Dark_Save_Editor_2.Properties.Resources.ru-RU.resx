@@ -195,6 +195,9 @@
   <data name="GEAR_BookFopen" xml:space="preserve">
     <value>Книга</value>
   </data>
+  <data name="GEAR_MooseHideBag" xml:space="preserve">
+    <value>Сумка из лосиной шкуры</value>
+  </data>
   <data name="GEAR_BookHopen" xml:space="preserve">
     <value>Книга</value>
   </data>
@@ -356,6 +359,12 @@
   </data>
   <data name="GEAR_CottonHoodie" xml:space="preserve">
     <value>Худи</value>
+  </data>
+  <data name="GEAR_MooseHideDried" xml:space="preserve">
+    <value>Высушенная лосиная шкура</value>
+  </data>
+  <data name="GEAR_MooseHideCloak" xml:space="preserve">
+    <value>Плащ из лосиной шкуры</value>
   </data>
   <data name="GEAR_MapSnippetMt" xml:space="preserve">
     <value>Map Snippet Mt</value>
@@ -775,7 +784,7 @@
     <value>Книги</value>
   </data>
   <data name="Title" xml:space="preserve">
-    <value>The Long Dark (v1.05) Редактор сохранений</value>
+    <value>The Long Dark (v1.30) Редактор сохранений</value>
   </data>
   <data name="Tools" xml:space="preserve">
     <value>Инструменты</value>
@@ -986,6 +995,9 @@
   </data>
   <data name="GEAR_LongUnderwearWool" xml:space="preserve">
     <value>Шерстяные подштанники</value>
+  </data>
+  <data name="GEAR_MooseHide" xml:space="preserve">
+    <value>Fresh Moose Hide</value>
   </data>
   <data name="RemoveAll" xml:space="preserve">
     <value>Удалить все</value>
